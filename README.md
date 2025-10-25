@@ -1,5 +1,5 @@
-# Teddy-Akumu
-## 👋About Me
+# TEDDY AKUMU
+## ABOUT ME
 
 Hi, I'm **Teddy Akumu**, a **Junior Software Engineer** passionate about building clean, responsive, and user-centered web applications.  
 I focus on **front-end development**, blending design and functionality to deliver seamless digital experiences.
@@ -26,9 +26,7 @@ I focus on **front-end development**, blending design and functionality to deliv
 To grow into a **Full-Stack Developer** and contribute to impactful, high-quality software projects that make a real-world difference.
 
 ### CONNECT WITH ME
-- [LinkedIn]()
+- [LinkedIn](www.linkedin.com/in/teddy-akumu-941207222)
 - [Portfolio](http://personal-web-8kg7.vercel.app/) {Development in progress}
 - [Email](mailto:your-rabongot@gmail.com)
 
-- [Portfolio](your-link)
-- [Email](mailto:your-email@example.com)
